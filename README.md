@@ -18,12 +18,12 @@ Technologies Used
 - Console-based user interface
 
 Project Structure
-ExpenseTracker/
-│ ├── Expense.java # Model class
-│ ├── ExpenseManager.java # Business logic
-│ └── ExpenseTracker.java # Main application
-├── expenses.txt # Sample data file
-├── README.md # This file
+ExpenseTracker
+- Expense.java # Model class
+- ExpenseManager.java # Business logic
+- ExpenseTracker.java # Main application
+- expenses.txt # Sample data file
+- README.md # This file
 
 
 Project Menu
